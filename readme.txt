@@ -9,8 +9,6 @@ fsfbgg
 sdfs
 test git push
 <<<<<<< HEAD
-
-on branch master
 =======
 on branch dev
 >>>>>>> dev
