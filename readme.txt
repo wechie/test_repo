@@ -7,3 +7,4 @@ dasd
 test git
 fsfbgg
 sdfs
+test git push
